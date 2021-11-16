@@ -2,9 +2,9 @@ import sys
 
 from PyQt5.QtWidgets import QApplication
 
-from app.view import CalcView
-from app.controler import CalcController
-from app.model import CalcModel
+from app_calc.view import CalcView
+from app_calc.controler import CalcController
+from app_calc.model import CalcModel
 
 
 def main():
